@@ -42,7 +42,7 @@ You are required to submit the following for review:
 
 - The URL of the deployed application
 
-https://pure-temple-00574.herokuapp.com/
+https://text-editor-pwa-ss.herokuapp.com/
 
 - The URL of the GitHub repository, with a unique name and a README describing the project
 
